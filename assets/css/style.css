@@ -2,16 +2,19 @@
 
 body {
 	background: url("../images/ali.jpg");
+	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover; 
 	background-position: center center; 
 	background-attachment: fixed;
 	font-family: 'Anton', sans-serif;
 	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .trivia {
-	margin-left: 550px;
+	position: absolute;
+	margin: auto;
 }
 
 .trivia h1 {	

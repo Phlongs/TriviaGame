@@ -1,6 +1,6 @@
 var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
 var questions = [
-    [ "What player has caught the most plasses in a single Superbowl?", "Jerry Rice 49ers", "Michael Irvin Cowboys", "James White New England", "C" ],
+    [ "What player has caught the most plasses in a single Superbowl?", "Jerry Rice 49ers", "Michael Irvin Cowboys", "James White Patriots", "C" ],
 	[ "What year was USA Basketball's first Dream Team assembled?", "1990", "1992", "1989", "B" ],
 	[ "Who led the first USA Dream Team in scoring?", "Michael Jordan", "Larry Bird", "Charles Barkley", "C" ],
 	[ "What team did Kobe Bryant played against when he scored 81 pts?", "NY Knicks", "Toronto Raptors", "Dallas Mavericks", "B" ],
