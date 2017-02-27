@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body {
+	background: url("../images/ali.jpg");
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background-position: center center; 
+	background-attachment: fixed;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+
+.trivia {
+	margin-left: 550px;
+}
+
+.trivia h1 {	
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+.trivia p {
+	font-size: 20px;
+}
+
+button {
+	color: black;
+}
